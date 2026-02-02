@@ -5,7 +5,7 @@ Me llamo Alex, tengo 23 años y me apasiona la informática. 🧑‍💻
 
 He estudiado Desarrollo de Aplicaciones Web dando un salto a mi habilidad en progrmación tanto en el ámbito del cliente como del servidor.
 
-Considero indespensable el trabajo en equipo y la confianza entre los compañeros para conseguir un buen resultado.
+Considero indispensable el trabajo en equipo y la confianza entre los compañeros para conseguir un buen resultado.
 
 ## Redes sociales 📸
 [Linkedin](https://www.linkedin.com/in/alexbg3/)
