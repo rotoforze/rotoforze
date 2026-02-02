@@ -1,16 +1,41 @@
-## Hi there 👋
+# Alex Bernardos -@- Desarrollador Web 💻
 
-<!--
-**rotoforze/rotoforze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi 🌍
+Me llamo Alex, tengo 23 años y me apasiona la informática. 🧑‍💻
 
-Here are some ideas to get you started:
+He estudiado Desarrollo de Aplicaciones Web dando un salto a mi habilidad en progrmación tanto en el ámbito del cliente como del servidor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Considero indespensable el trabajo en equipo y la confianza entre los compañeros para conseguir un buen resultado.
+
+## Redes sociales 📸
+[Linkedin](https://www.linkedin.com/in/alexbg3/)
+
+## Certifiaciones 💾
+[Git + GitHub](https://www.udemy.com/certificate/UC-f453ccb9-88b0-4a54-beb2-605320737a82/)
+
+[Legacy JavaScript Algorithms and Data Structures V8](https://www.freecodecamp.org/certification/fcc140d0a24-31ae-4773-8c31-d47f96aa2adf/javascript-algorithms-and-data-structures-v8)
+
+[Legacy Responsive Web Design V8](https://www.freecodecamp.org/certification/fcc140d0a24-31ae-4773-8c31-d47f96aa2adf/responsive-web-design)
+
+### Tecnologías ⌨️
+```javascript
+    function getTechnologies() {
+        return {
+            frontend: [
+                "JavaScript",
+                "React",
+                "HTML",
+                "CSS"
+            ],
+            backend: [
+                "Java",
+                "PHP",
+                "Node.js"
+            ],
+            versionControl: [
+                "Git",
+                "GitHub"
+            ]
+        }
+    }
+```
